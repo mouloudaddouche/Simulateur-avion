@@ -1,5 +1,5 @@
 # Simulateur de fonctionnement d'un système carburant d'un avion
-Conception d'une solution logicielle graphique qui permettra la simulation du fonctionnement d'un système carburant d'un avion.
+Conception d'une solution logicielle graphique qui permet la simulation du fonctionnement d'un système carburant d'un avion.
 
 ## À propos du projet
 
